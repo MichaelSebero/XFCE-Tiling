@@ -1,4 +1,4 @@
-# Window tiling manager for Linux
+# XFCE-Tiling-Manager
 > Drag and tile windows to pre-configured positions.
 > Enhances productivity with ultrawide displays, 
 > Makes better use of screen real estate by tiling windows and programs intelligently.
