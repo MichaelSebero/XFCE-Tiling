@@ -1,9 +1,7 @@
-# XFCE-Tiling-Manager
-> Drag and tile windows to pre-configured positions.
-> Enhances productivity with ultrawide displays, 
-> Makes better use of screen real estate by tiling windows and programs intelligently.
-> - Requires "X Window system" manager (X11) such as:
->   - Gnome, Xfce, unity, KDE etc.
+# XFCE-Tiling
+Drag and tile windows to pre-configured positions.
+Enhances productivity with ultrawide displays, 
+Makes better use of screen real estate by tiling windows and programs intelligently.
 
 ## Usage
 - Drag and drop into predefined areas to auto tile: 
