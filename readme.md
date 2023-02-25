@@ -4,6 +4,7 @@ Enhances productivity with ultrawide displays,
 Makes better use of screen real estate by tiling windows and programs intelligently.
 
 ## Usage
+Make this script a startup program.
 - Drag and drop into predefined areas to auto tile: 
     * upper left/right corner -> populate left/right 2/3 of the display
     * upper middle edge -> populate centered 7/10 display area
