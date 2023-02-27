@@ -3,9 +3,10 @@ Drag and tile windows to pre-configured positions.
 Enhances productivity with ultrawide displays, 
 Makes better use of screen real estate by tiling windows and programs intelligently.
 
-## Usage
-pip3 install xlib
+## Requirements
+pip install xlib
 
+## Usage
 Make this script a startup program.
 - Drag and drop into predefined areas to auto tile: 
     * upper left/right corner -> populate left/right 2/3 of the display
