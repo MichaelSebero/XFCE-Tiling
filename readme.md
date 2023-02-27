@@ -5,6 +5,7 @@ Makes better use of screen real estate by tiling windows and programs intelligen
 
 ## Usage
 pip3 install xlib
+
 Make this script a startup program.
 - Drag and drop into predefined areas to auto tile: 
     * upper left/right corner -> populate left/right 2/3 of the display
