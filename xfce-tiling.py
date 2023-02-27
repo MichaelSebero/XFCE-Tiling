@@ -140,7 +140,7 @@ class WindowTileManager:
                 w = int(WIDTH / 3)
                 move = True
 
-        elif HEIGHT / 3 < root_y < 2 * HEIGHT / 3:
+        elif HEIGHT / 3 < root_y < 5 * HEIGHT / 3:
             # left middle edge
             if root_x < ACTIVE_BORDER:
                 x = 0
