@@ -4,6 +4,7 @@ Enhances productivity with ultrawide displays,
 Makes better use of screen real estate by tiling windows and programs intelligently.
 
 ## Usage
+pip3 install xlib
 Make this script a startup program.
 - Drag and drop into predefined areas to auto tile: 
     * upper left/right corner -> populate left/right 2/3 of the display
@@ -14,5 +15,3 @@ Make this script a startup program.
 # Demo
 ![Demo gif](https://raw.githubusercontent.com/ladzaretti/wintile/master/opt_win.gif)
 
-
-WIP WILL UPDATE SOON
