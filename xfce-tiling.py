@@ -152,27 +152,6 @@ class WindowTileManager:
                 w = int(WIDTH / 2)
                 move = True
 
-        # top edge
-        elif root_y < ACTIVE_BORDER:
-
-            # left top corner
-            if root_x < ACTIVE_BORDER:
-                x = 0
-                w = int(2 * WIDTH / 3)
-                move = True
-
-            # right top corner
-            if root_x > WIDTH - ACTIVE_BORDER:
-                x = int(WIDTH / 3)
-                w = int(2 * WIDTH / 3)
-                move = True
-
-            # middle top third edge
-            if int(WIDTH / 3) < root_x < int(2 * WIDTH / 3):
-                x = int(WIDTH * 0.15)
-                w = int(WIDTH * 0.7)
-                move = True
-
         if move:
             win = self.disp.create_resource_object('window', win_id)
             win.unmap()
