@@ -12,6 +12,3 @@ Make this script a startup program.
     * middle left/right edge -> populate left/right display half
     * bottom left/middle/right third edge -> populate left/middle/right display third
 
-
-![Demo gif](https://raw.githubusercontent.com/ladzaretti/wintile/master/opt_win.gif)
-
