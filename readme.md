@@ -9,8 +9,6 @@ pip install xlib
 ## Usage
 Make this script a startup program.
 - Drag and drop into predefined areas to auto tile: 
-    * upper left/right corner -> populate left/right 2/3 of the display
-    * upper middle edge -> populate centered 7/10 display area
     * middle left/right edge -> populate left/right display half
     * bottom left/middle/right third edge -> populate left/middle/right display third
 
